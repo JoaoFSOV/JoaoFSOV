@@ -22,4 +22,5 @@ Here are some of the languages and tools I've been focusing on:
 
 <br></br>
 You can contact me through my LinkedIn:
+<br></br>
 [<img src='https://github.com/JoaoFSOV/JoaoFSOV/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jo%C3%A3o-vieira-2bb825231/) 
