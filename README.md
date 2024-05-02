@@ -22,4 +22,4 @@ Here are some of the languages and tools I've been focusing on:
 
 
 You can contact me through my LinkedIn:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-vieira-2bb825231//) 
+[<img src='https://github.com/JoaoFSOV/JoaoFSOV/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jo%C3%A3o-vieira-2bb825231/) 
