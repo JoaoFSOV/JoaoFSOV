@@ -1,4 +1,4 @@
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Developer](https://github.com/JoaoFSOV/JoaoFSOV/blob/main/1%20OohqW5DGh9CQS4hLY5FXzA.png)
 
 # João Vieira
 ## Software Developer
