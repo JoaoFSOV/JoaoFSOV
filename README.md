@@ -20,4 +20,5 @@ Here are some of the languages and tools I've been focusing on:
 <img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/dotnet.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/linux.svg"/>
 
-
+You can contact me through my LinkedIn:
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
