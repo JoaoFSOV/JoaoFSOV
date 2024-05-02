@@ -1,10 +1,8 @@
-![Software Developer](https://github.com/JoaoFSOV/JoaoFSOV/blob/main/1%20OohqW5DGh9CQS4hLY5FXzA.png)
-
 # João Vieira
-## Software Developer
+*Computer Science graduate (expected late 2024) seeking a Software Engineering role*
 
-  I'm a soon-to-be computer science graduate (expected graduation late 2024) embarking on my coding adventure! During my studies, I had the opportunity to gain practical experience as a Software Engineer intern at Renault solidifing my love for programming and problem-solving, which has fueled my long-held dream of one day creating my own indie game.
-  Currently, I'm actively seeking a software engineering position to further develop my skills and contribute to a collaborative team environment, in preparation for the journey, I've been learning and building my technical skillset. 
+I'm passionate about programming and problem-solving, fueled by a desire to create innovative software solutions. My internship at Renault as a Software Engineer intern solidified this passion. 
+I'm actively seeking a Software Engineering position to further develop my skills and contribute to a collaborative team environment.
 
 Here are some of the languages and tools I've been focusing on:
 
