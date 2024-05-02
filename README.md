@@ -15,6 +15,7 @@ Here are some of the languages and tools I've been focusing on:
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/css.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/sql.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/c.svg"/>
+<img align="left" alt="Cpp" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/cpp.svg"/>
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/c%23.svg"/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/nodejs.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/angular.svg"/>
