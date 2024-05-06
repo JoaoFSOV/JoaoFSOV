@@ -6,7 +6,7 @@ I'm actively seeking a Software Engineering position to further develop my skill
 
 Here are some of the languages and tools I've been focusing on:
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/SVG/Tecnologies/main/java.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/java.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/javascript.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/typescript.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/html.svg"/>
