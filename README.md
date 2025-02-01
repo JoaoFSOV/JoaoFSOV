@@ -1,5 +1,5 @@
 # João Vieira
-*Computer Science graduate (expected late 2024) seeking a Software Engineering role*
+*SOFTWARE ENGINEER*
 
 I'm passionate about programming and problem-solving, fueled by a desire to create innovative software solutions. My internship at Renault as a Software Engineer intern solidified this passion. 
 I'm actively seeking a Software Engineering position to further develop my skills and contribute to a collaborative team environment.
