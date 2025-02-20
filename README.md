@@ -1,6 +1,4 @@
 <!-- README.md para o GitHub Profile -->
-<h1 align="center"> Welcome to My GitHub Profile 👋 </h1>
-
 # João Vieira
 *SOFTWARE ENGINEER*
 
