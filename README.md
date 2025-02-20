@@ -1,12 +1,8 @@
 <!-- README.md para o GitHub Profile -->
-# João Vieira
-*SOFTWARE ENGINEER*
-
 <h1 align="center"> Welcome to My GitHub Profile 👋 </h1>
 
-<div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFSOV&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# João Vieira
+*SOFTWARE ENGINEER*
 
 ## 🚀 About me
 
