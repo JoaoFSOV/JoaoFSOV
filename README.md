@@ -2,13 +2,10 @@
 # João Vieira
 *SOFTWARE ENGINEER*
 
-<h1 align="center"> Welcome to My GitHub Profile 👋 
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoFSOV.JoaoFSOV" />
-</h1>
+<h1 align="center"> Welcome to My GitHub Profile 👋 </h1>
 
 <div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFSOV&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFSOV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🚀 About me
@@ -17,7 +14,7 @@
 - 💻 **Currently**: Focused on **Backend**
 - 📊 **Skills**: Java, Node.js, API Rest, SQL, SpringBoot, PostgreSQL, MongoDB 
 - 🌍 **Languages**: Portuguese (native) and English (good)
-- 
+
 ## 🛠️ Technologies and Tools
 <p>
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/java.svg"/>
@@ -34,7 +31,9 @@
   <img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/dotnet.svg"/>
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/linux.svg"/>
 </p>
+
 <br>
+
 ## 📫 Contact me through:
 <p>
   <a href="https://www.linkedin.com/in/joaofsovieira" target="_blank">
