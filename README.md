@@ -6,7 +6,7 @@
 
 - 🎓 **Education**: Computer Science
 - 💻 **Currently**: Focused on **Backend**
-- 📊 **Skills**: Java, Node.js, API Rest, SQL, SpringBoot, PostgreSQL, MongoDB 
+- 📊 **Skills**: C++, Java, Node.js, REST API, SQL, SpringBoot, PostgreSQL, MongoDB, C, C#, .Net 
 - 🌍 **Languages**: Portuguese (native) and English (good)
 
 ## 🛠️ Technologies and Tools
