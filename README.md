@@ -1,6 +1,6 @@
 <!-- README.md para o GitHub Profile -->
 # João Vieira
-*SOFTWARE ENGINEER*
+*SOFTWARE ENGINEER - INTEGRATION DEVELOPER*
 
 ## 🚀 About me
 
