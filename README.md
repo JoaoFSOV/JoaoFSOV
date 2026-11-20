@@ -2,7 +2,7 @@
 # João Vieira
 *SOFTWARE ENGINEER - INTEGRATION DEVELOPER*
 
-Integration developer building cloud integrations on **Azure**, currently replatforming legacy **BizTalk** flows to **Azure Integration Services**. On the way to becoming a solutions architect, and automating everything I can with AI along the way.
+Integration developer building cloud integrations on **Azure**, currently replatforming legacy **BizTalk** flows to **Azure Integration Services**. MuleSoft certified. On the way to becoming a solutions architect, and automating everything I can with AI along the way.
 
 ## 🚀 About me
 - 🎓 **Education**: Computer Science
@@ -10,8 +10,13 @@ Integration developer building cloud integrations on **Azure**, currently replat
 - 🔄 **Background**: BizTalk support and development, now migrating BizTalk flows to AIS
 - 🏗️ **Goal**: Growing into **solution design and architecture**
 - 🤖 **Side quests**: Building AI skills and automation tooling, a personal AI assistant, and game dev
-- 📊 **Skills**: C++, Java, Node.js, REST API, SQL, SpringBoot, PostgreSQL, MongoDB, C, C#, .Net, Azure Logic Apps, BizTalk, XML / JSON / CSV integration patterns
+- 📊 **Skills**: C++, Java, Node.js, REST API, SQL, SpringBoot, PostgreSQL, MongoDB, C, C#, .Net, Azure Logic Apps, BizTalk, MuleSoft, XML / JSON / CSV integration patterns
 - 🌍 **Languages**: Portuguese (native) and English (good)
+
+## 🏅 Certifications
+<p>
+  <img src="https://img.shields.io/badge/MuleSoft%20Certified%20Developer-Level%201-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white"/>
+</p>
 
 ## 🛠 Technologies and Tools
 
@@ -44,6 +49,7 @@ Integration developer building cloud integrations on **Azure**, currently replat
   <img src="https://img.shields.io/badge/Logic%20Apps-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Integration%20Services-005BA1?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/BizTalk-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white"/>
 </p>
 
 **Tools**
