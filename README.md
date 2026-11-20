@@ -2,31 +2,56 @@
 # João Vieira
 *SOFTWARE ENGINEER - INTEGRATION DEVELOPER*
 
-## 🚀 About me
+Integration developer building cloud integrations on **Azure**, currently replatforming legacy **BizTalk** flows to **Azure Integration Services**. On the way to becoming a solutions architect, and automating everything I can with AI along the way.
 
+## 🚀 About me
 - 🎓 **Education**: Computer Science
-- 💻 **Currently**: Focused on **Backend**
-- 📊 **Skills**: C++, Java, Node.js, REST API, SQL, SpringBoot, PostgreSQL, MongoDB, C, C#, .Net 
+- ☁️ **Currently**: Designing and developing integrations on **Azure** (Logic Apps, Azure Integration Services)
+- 🔄 **Background**: BizTalk support and development, now migrating BizTalk flows to AIS
+- 🏗️ **Goal**: Growing into **solution design and architecture**
+- 🤖 **Side quests**: Building AI skills and automation tooling, a personal AI assistant, and game dev
+- 📊 **Skills**: C++, Java, Node.js, REST API, SQL, SpringBoot, PostgreSQL, MongoDB, C, C#, .Net, Azure Logic Apps, BizTalk, XML / JSON / CSV integration patterns
 - 🌍 **Languages**: Portuguese (native) and English (good)
 
-## 🛠️ Technologies and Tools
+## 🛠 Technologies and Tools
+
+**Languages**
 <p>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/java.svg"/>
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/javascript.svg"/>
-  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/typescript.svg"/>
-  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/html.svg"/>
-  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/css.svg"/>
-  <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/sql.svg"/>
-  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/c.svg"/>
-  <img align="left" alt="Cpp" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/cpp.svg"/>
-  <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/c%23.svg"/>
-  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/nodejs.svg"/>
-  <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/angular.svg"/>
-  <img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/dotnet.svg"/>
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/JoaoFSOV/JoaoFSOV/blob/main/SVG/Tecnologies/linux.svg"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logoColor=white"/>
 </p>
 
-<br>
+**Frameworks & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+**Cloud & Integration**
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logic%20Apps-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Integration%20Services-005BA1?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BizTalk-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
 
 ## 📫 Contact me through:
 <p>
